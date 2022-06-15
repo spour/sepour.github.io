@@ -29,6 +29,14 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+    },
+    {
+      "name": "Bioinformatics",
+      "keywords": [ "BioPython", "MEME Suite", "Bowtie", "MACS2", "TF-MoDISco", "DeepLift", "BLAST" ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [ "tensorflow", "Keras", "scikit-learn", "SciPy", "Numpy" ]
     }
   ],
   "education": [
