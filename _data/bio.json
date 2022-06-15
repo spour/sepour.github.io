@@ -9,7 +9,7 @@
     "summary": "I am a Computational Biologist and Data Scientist with a passion for the applications of machine learning in biology. I am currently a Ph.D. candidate in the department of Molecular Genetics, focussing on the sequence determinants of gene structure, primarily the 3' end.",
     "location": { "address": "", "postalCode": "M5S 3E1", "city": "Toronto", "countryCode": "Canada", "region": "Ontario" },
     "profiles": [
-      { "network": "github", "username": "sepour", "url": "http://github.com/spour },
+      { "network": "github", "username": "sepour", "url": "http://github.com/spour"},
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
     ]
   },
