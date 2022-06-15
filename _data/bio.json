@@ -9,18 +9,17 @@
     "summary": "I am a Computational Biologist and Data Scientist with a passion for the applications of machine learning in biology. I am currently a Ph.D. candidate in the department of Molecular Genetics, focussing on the sequence determinants of gene structure, primarily the 3' end.",
     "location": { "address": "", "postalCode": "M5S 3E1", "city": "Toronto", "countryCode": "Canada", "region": "Ontario" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "sepour", "url": "http://github.com/spour },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computational Genomics & Bioinformatics" },
+    { "name": "Data Science" },
+    { "name": "Data Visualization" },
+    { "name": "Education" },
+    { "name": "Technical Communication" },
+    { "name": "Interdisciplinary Collaboration" }
   ],
   "skills": [
     {
@@ -79,7 +78,7 @@
       "summary": "Helping new graduate and undergraduate students conduct research in bioinformatics",
       "highlights": [
         "Helped to design and train deep-learning models for promoter-enhancer identification",
-        "Personally trained and supervised four students for the successful execution of several thesis-level projects"
+        "Personally trained and supervised four students in successfully executing their projects"
       ]
     },
     {
