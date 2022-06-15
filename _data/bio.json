@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Sara Pour",
+    "label": "Student",
+    "picture": "", 
+    "email": "sara.eslampour@mail.utoronto.ca",
+    "phone": "+1 (647)-391-7974",
+    "website": "https://spour.github.io",
+    "summary": "I am a Computational Biologist and Data Scientist with a passion for the applications of machine learning in biology. I am currently a Ph.D. candidate in the department of Molecular Genetics, focussing on the sequence determinants of gene structure, primarily the 3' end.",
+    "location": { "address": "", "postalCode": "M5S 3E1", "city": "Toronto", "countryCode": "Canada", "region": "Ontario" },
+    "profiles": [
+      { "network": "github", "username": "sepour", "url": "http://github.com/spour"},
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+    ]
+  },
+  "interests": [
+    { "name": "Computational Genomics & Bioinformatics"},
+    { "name": "Data Science"},
+    { "name": "Data Visualization"},
+    { "name": "Education"},
+    { "name": "Technical Communication"},
+    { "name": "Interdisciplinary Collaboration"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "R", "Latex", "SQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+    },
+    {
+      "name": "Bioinformatics",
+      "keywords": [ "BioPython", "MEME Suite", "Bowtie", "MACS2", "TF-MoDISco", "DeepLift", "BLAST" ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [ "tensorflow", "Keras", "scikit-learn", "SciPy", "Numpy" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto, ON",
+      "area": "Molecular Genetics, minor in Chemistry, [Highest Distinction (3.8/4.0)]",
+      "studyType": "B.Sc.",
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": "Highest Distinction (3.8/4.0)"
+    },
+    {
+      "institution": "University of Toronto, ON",
+      "area": "Computational Genomics, Department of Molecular Genetics, [4.0/4.0]",
+      "studyType": "Ph.D.",
+      "startDate": "2020",
+      "endDate": "Present",
+      "gpa": "(4.0/4.0)"
+    }
+  ],
+  "work": [
+    {
+      "company": "Donnelly Center",
+      "position": "Graduate Research Fellow",
+      "startDate": "2020-05",
+      "endDate": "2020-09",
+      "summary": "Investigating AT-Hook DNA-binding Motifs",
+      "highlights": [
+        "Detected and analyzed the binding preferences and motifs in ChIP-seq data using machine learning techniques for over 30 proteins."
+      ]
+    },
+    {
+      "company": "Department of Molecular Genetics",
+      "position": "Undergraduate Research Assistant in Molecular Genetics",
+      "startDate": "2018-05",
+      "endDate": "2020-05",
+      "summary": "",
+      "highlights": [
+        "Assisted senior research associates and postdoctoral fellows with molecular biology experiments such as protein-binding microarray and SELEX to study the activity of RNA-binding proteins and transcription factors for identification of in vitro targets."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Department of Molecular Genetics",
+      "position": "Mentor",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Helping new graduate and undergraduate students conduct research in bioinformatics",
+      "highlights": [
+        "Helped to design and train deep-learning models for promoter-enhancer identification",
+        "Personally trained and supervised four students in successfully executing their projects"
+      ]
+    },
+    {
+      "organization": "Fort York Foodbank",
+      "position": "Volunteer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Providing low-income individuals and families with a three-day supply of groceries",
+      "highlights": [
+        "Handing out a variety of dairy, eggs, and meats",
+        "Helping new community members register with us",
+        "Taking out the garbage, restocking, and cleaning up"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
