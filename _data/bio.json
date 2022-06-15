@@ -25,74 +25,73 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "R", "Latex", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Toronto, ON",
+      "area": "Molecular Genetics, minor in Chemistry",
+      "studyType": "B.Sc.",
+      "startDate": "2016",
+      "endDate": "2020",
+    },
+    {
+      "institution": "University of Toronto, ON",
+      "area": "Computational Genomics, Department of Molecular Genetics",
+      "studyType": "Ph.D.",
+      "startDate": "2020",
       "endDate": "Present",
-      "courses": [
-      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Donnelly Center",
+      "position": "Graduate Research Fellow",
+      "startDate": "2020-05",
+      "endDate": "2020-09",
+      "summary": "Investigating AT-Hook DNA-binding Motifs",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Detected and analyzed the binding preferences and motifs in ChIP-seq data using machine learning techniques for over 30 proteins."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Department of Molecular Genetics",
+      "position": "Thesis Project in Molecular Genetics",
+      "startDate": "2019-09",
+      "endDate": "2020-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted senior research associates with molecular biology experiments such as protein-binding microarray and SELEX to study the activity of RNA-binding proteins and transcription factors for identification of in vitro targets."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Department of Molecular Genetics",
+      "position": "Mentor",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Helping new graduate and undergraduate students conduct research in bioinformatics",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped to design and train deep-learning models for promoter-enhancer identification",
+        "Personally trained and supervised four students for the successful execution of several thesis-level projects"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Fort York Foodbank",
+      "position": "Volunteer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Providing low-income individuals and families with a three-day supply of groceries",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Handing out a variety of dairy, eggs, and meats",
+        "Helping new community members register with us",
+        "Taking out the garbage, restocking, and cleaning up"
       ]
     }
   ],
