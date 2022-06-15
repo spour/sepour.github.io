@@ -14,12 +14,12 @@
     ]
   },
   "interests": [
-    { "name": "Computational Genomics & Bioinformatics" },
-    { "name": "Data Science" },
-    { "name": "Data Visualization" },
-    { "name": "Education" },
-    { "name": "Technical Communication" },
-    { "name": "Interdisciplinary Collaboration" }
+    { "name": "Computational Genomics & Bioinformatics"},
+    { "name": "Data Science"},
+    { "name": "Data Visualization"},
+    { "name": "Education"},
+    { "name": "Technical Communication"},
+    { "name": "Interdisciplinary Collaboration"}
   ],
   "skills": [
     {
@@ -38,7 +38,7 @@
       "studyType": "B.Sc.",
       "startDate": "2016",
       "endDate": "2020",
-      "grade": "Highest Distinction (3.8/4.0)"
+      "gpa": "Highest Distinction (3.8/4.0)"
     },
     {
       "institution": "University of Toronto, ON",
@@ -46,7 +46,7 @@
       "studyType": "Ph.D.",
       "startDate": "2020",
       "endDate": "Present",
-      "grade": "(4.0/4.0)"
+      "gpa": "(4.0/4.0)"
     }
   ],
   "work": [
