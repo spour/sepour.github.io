@@ -38,6 +38,7 @@
       "studyType": "B.Sc.",
       "startDate": "2016",
       "endDate": "2020",
+      "grade": "Highest Distinction (3.8/4.0)"
     },
     {
       "institution": "University of Toronto, ON",
@@ -45,6 +46,7 @@
       "studyType": "Ph.D.",
       "startDate": "2020",
       "endDate": "Present",
+      "grade": "(4.0/4.0)"
     }
   ],
   "work": [
@@ -60,12 +62,12 @@
     },
     {
       "company": "Department of Molecular Genetics",
-      "position": "Thesis Project in Molecular Genetics",
-      "startDate": "2019-09",
+      "position": "Undergraduate Research Assistant in Molecular Genetics",
+      "startDate": "2018-05",
       "endDate": "2020-05",
       "summary": "",
       "highlights": [
-        "Assisted senior research associates with molecular biology experiments such as protein-binding microarray and SELEX to study the activity of RNA-binding proteins and transcription factors for identification of in vitro targets."
+        "Assisted senior research associates and postdoctoral fellows with molecular biology experiments such as protein-binding microarray and SELEX to study the activity of RNA-binding proteins and transcription factors for identification of in vitro targets."
       ]
     }
   ],
