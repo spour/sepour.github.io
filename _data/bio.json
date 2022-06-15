@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sara Pour",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "", 
+    "email": "sara.eslampour@mail.utoronto.ca",
+    "phone": "+1 (647)-391-7974",
+    "website": "https://spour.github.io",
+    "summary": "I am a Computational Biologist and Data Scientist with a passion for the applications of machine learning in biology. I am currently a Ph.D. candidate in the department of Molecular Genetics, focussing on the sequence determinants of gene structure, primarily the 3' end.",
+    "location": { "address": "", "postalCode": "M5S 3E1", "city": "Toronto", "countryCode": "Canada", "region": "Ontario" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
